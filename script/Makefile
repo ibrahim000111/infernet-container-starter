@@ -2,8 +2,8 @@
 .phony: deploy
 
 # anvil's third default address
-sender := 0xf4e67c8f47765c15cca61f428f71f0706e0aa8eae25e936b89f1887a4cbcabc5
-RPC_URL := https://base-rpc.publicnode.com/
+sender := private_c
+RPC_URL := rpc_a
 
 # deploying the contract
 deploy:
